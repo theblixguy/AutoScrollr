@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AutoScrollr</string>
+    <string name="autoscrollr_active_status_text">AutoScrollr is active</string>
+    <string name="autoscrollr_inactive_status_text">AutoScrollr is inactive</string>
+    <string name="autoscrollr_disabled_status_text">AutoScrollr is disabled</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="dialog_error_message">Your phone isn\'t rooted! AutoScrollr needs root to work.</string>
+    <string name="dialog_error_close_button_text">Close</string>
+    <string name="version_number">1.0 (3)</string>
+    <string name="about_screen_app_title">AutoScrollr for Android</string>
+    <string name="version_text">Version</string>
+    <string name="about_app_made_with_love_text">Made with \ud83d\udc9a by Suyash Srijan</string>
+    <string name="settings_menu_text">Settings</string>
+    <string name="donate_menu_text">Donate</string>
+    <string name="about_menu_text">About</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_about">About</string>
+    <string name="donate_dialog_close_button_text">No donation :(</string>
+    <string name="donate_dialog_title_text">Support my work</string>
+    <string name="donate_dialog_message_text">AutoScrollr is a completely free and open-source app with no ads and I\'ve put a lot of time into making and improving it. If you like my work, please consider donating in order to motivate me to work harder and produce even more useful apps!</string>
+    <string name="donate_dialog_positive_button_text">Donate :)</string>
+    <string name="autoscrollr_active_dialog_title">That\'s it</string>
+    <string name="autoscrollr_active_dialog_message_text">AutoScrollr is now active. In order to start auto scrolling, press on the AutoScrollr notification in your notification area.</string>
+    <string name="autoscrollr_active_dialog_positive_button_text">Okay</string>
+    <string name="autoscrollr_intro_text">AutoScrollr automatically scrolls the content in any app that is open, which means you don\'t have to manually scroll if you\'re reading an article, website or comments.</string>
+    <string name="autoscrollr_intro_title">Hi!</string>
+    <string name="autoscrollr_intro_switch_title">AutoScrollr is inactive</string>
+</resources>
